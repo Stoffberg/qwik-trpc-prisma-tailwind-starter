@@ -1,3 +1,24 @@
+<p>
+  <img width="100%" src="https://i.ibb.co/c271pj1/Qwik-posts.png" alt="Qwik + TailwindCSS + tRPC + Prisma Starter">
+</p>
+
+>Made to contribute to the Qwik ecosystem
+
+## Included:
+- [Qwik](https://qwik.builder.io/) for our meta framework
+- [Vite](https://vitejs.dev/) used by Qwik for fast build times
+- [Tailwind](https://tailwindcss.com/) as our CSS framework
+- [tRPC](https://github.com/solidjs/solid-app-router) for end-to-end typesafety
+- [Prisma](https://www.prisma.io/) for our database ORM
+
+## Quickstart Guide:
+
+```bash
+> yarn # or npm i or pnpm i
+> yarn dev # or npm run dev or pnpm run dev
+```
+Now you can go to your browser and navigate to http://localhost:3000/
+
 # Qwik App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
